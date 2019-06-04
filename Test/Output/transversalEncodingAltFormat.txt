@@ -1,0 +1,81 @@
+The tree in preorder is:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ: 413
+DEFJKLMNVW: 169
+JKLMVW: 80
+LM: 39
+M: 19
+L: 20
+JKVW: 41
+JKV: 20
+K: 10
+JV: 10
+J: 5
+V: 5
+W: 21
+DEFN: 89
+E: 42
+DFN: 47
+DF: 23
+D: 11
+F: 12
+N: 24
+ABCGHIOPQRSTUXYZ: 244
+GPQRTUXYZ: 106
+RT: 50
+R: 25
+T: 25
+GPQUXYZ: 56
+GP: 27
+P: 13
+G: 14
+QUXYZ: 29
+QXYZ: 14
+QXZ: 6
+Z: 3
+QX: 3
+Q: 1
+X: 2
+Y: 8
+U: 15
+ABCHIOS: 138
+BCHI: 66
+BI: 32
+B: 16
+I: 16
+CH: 34
+C: 17
+H: 17
+AOS: 72
+S: 35
+AO: 37
+O: 18
+A: 19
+
+The Huffman encoding as they appear in preorder is:
+M = 0000
+L = 0001
+K = 00100
+J = 001010
+V = 001011
+W = 0011
+E = 010
+D = 01100
+F = 01101
+N = 0111
+R = 1000
+T = 1001
+P = 10100
+G = 10101
+Z = 1011000
+Q = 10110010
+X = 10110011
+Y = 101101
+U = 10111
+B = 11000
+I = 11001
+C = 11010
+H = 11011
+S = 1110
+O = 11110
+A = 11111
+
